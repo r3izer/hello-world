@@ -1,0 +1,23 @@
+div {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: white;
+}
+
+strong {
+    font-size: 50px;
+    color: white;
+}
+body {
+    background-color: black;
+}
+img {
+    align-self: start;
+}
+
+div.testing img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+  
